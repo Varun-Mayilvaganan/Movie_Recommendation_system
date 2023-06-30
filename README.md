@@ -24,4 +24,5 @@ Find the cosine Similarity between the featured vectors.
 Find the close match with all movies list and your value then it will return the exact match with similarity scores.
 # Step7:-
 Now we can see the 20 movies which recommended by the given input movie name.
-<img src="">
+<img src="https://github.com/Varun-Mayilvaganan/Movie_Recommendation_system/blob/main/Screenshot%20(140).png">
+<img src="https://github.com/Varun-Mayilvaganan/Movie_Recommendation_system/blob/main/Screenshot%20(141).png">
