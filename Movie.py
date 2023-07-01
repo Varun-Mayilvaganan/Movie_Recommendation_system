@@ -1,4 +1,8 @@
 #import the necessary libraries for recommendation system
+
+#USE GOOGLE COLAB =>for making execution easier. 
+
+
 import numpy as np
 import pandas as pd
 import difflib
