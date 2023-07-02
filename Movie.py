@@ -61,7 +61,7 @@ len(similarity_score)
 
 sorted_similar_movies=sorted(similarity_score, key=lambda x:x[1], reverse=True)
 print(sorted_similar_movies)
-
+#selected similar features
 print("Movie suggested for you : \n")
 i=1
 for movie in sorted_similar_movies:
