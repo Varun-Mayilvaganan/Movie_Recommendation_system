@@ -1,6 +1,6 @@
-#import the necessary libraries for recommendation system
-
-#USE GOOGLE COLAB =>for making execution easier. 
+# Import the necessary libraries for recommendation system
+# I used the Tamil Movies datasets for my convenience
+# Use GOOGLE COLAB =>for making execution easier. 
 
 
 import numpy as np
