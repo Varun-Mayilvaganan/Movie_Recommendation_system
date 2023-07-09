@@ -54,6 +54,7 @@ print(close_match)
 
 index_of_movie=movies_data[movies_data.MovieName == close_match]['unique-id'].values[0]
 print(index_of_movie)
+#finding similarities
 
 similarity_score=list(enumerate(similarity[index_of_movie]))
 print(similarity_score)
