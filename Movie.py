@@ -8,6 +8,10 @@ import pandas as pd
 import difflib
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+
+#this movies datasets is available in the repo of this project
+
+
 movies_data=pd.read_csv("/content/Tamil_movies_dataset.csv")
 print(movies_data.head(3))
 movies_data.shape
